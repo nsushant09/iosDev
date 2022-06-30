@@ -21,7 +21,7 @@ struct textBootcamp: View {
         //                .font(.title)
         //                .fontWeight(.medium)
         //                .bold()
-        //                .underline(true, color : Color.red)
+        //                .underline(true, color : Color.red)`
     }
     
 }
